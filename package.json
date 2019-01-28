@@ -1,0 +1,24 @@
+{
+  "name": "log-searcher",
+  "version": "1.0.0",
+  "description": "node.js-based JSON log indexing + search tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonros/log-searcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonros/log-searcher/issues"
+  },
+  "homepage": "https://github.com/brandonros/log-searcher#readme",
+  "dependencies": {
+    "dot-prop": "^4.2.0",
+    "event-stream": "^4.0.1",
+    "xxhash": "^0.2.4"
+  }
+}
